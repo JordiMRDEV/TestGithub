@@ -1,7 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hola mundo");/*comment hello world*/
+        String hello = "Hola Mundo!";
+        System.out.println(hello);/*comment hello world*/
         System.out.println("Nueva linea");
-        System.out.println("Cambio Marc");
+        System.out.println("Nueva linea2");
+        System.out.println("Marc Linea");
     }
 }
